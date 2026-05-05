@@ -904,11 +904,6 @@ section.about div.content .info-box .box:hover {
     padding: 20px;
   }
 
-  .right {
-    margin-top: 50px;
-    padding-right: 0;
-  }
-
   .container {
     grid-template-columns: 1fr;
     text-align: center;
@@ -983,14 +978,6 @@ section.about div.content .info-box .box:hover {
     display: none;
   }
 
-  .hero {
-    padding: 20px;
-  }
-
-  .right {
-    padding-right: 0;
-  }
-
   .cert-grid {
     grid-template-columns: 1fr;
   }
@@ -998,5 +985,9 @@ section.about div.content .info-box .box:hover {
   .cert-card {
     width: 100%;
     max-width: 320px;
+  }
+
+  .footer-left {
+    padding-left: 35px;
   }
 }
