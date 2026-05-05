@@ -949,8 +949,13 @@ section.about div.content .info-box .box:hover {
 
   .about div.content .btn {
     margin-top: 30px;
-    padding: 14px 25px;
+    padding: 14px 15px;
     width: 180px;
+  }
+
+  .about div.content .view-btn {
+    margin-top: 8px;
+    width: 105px;
   }
 
   .skills-section {
